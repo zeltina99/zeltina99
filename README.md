@@ -1,8 +1,6 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/13CoXDiaCcCzd6/giphy.gif" width="100%" height="250" style="object-fit:cover; border-radius: 10px; opacity: 0.8;">
-  <br/>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FF41&center=true&vCenter=true&width=435&lines=SYSTEM+INITIALIZED...;USER:+zeltina99;STATUS:+CONNECTED;TARGET:+UNREAL+ENGINE+MASTER;" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FF41&center=true&vCenter=true&width=435&lines=SYSTEM+INITIALIZED...;USER:+zeltina99;STATUS:+CONNECTED;TARGET:+UNREAL+ENGINE+INTERMEDIATE;" alt="Typing SVG" />
   </a>
 </div>
 
